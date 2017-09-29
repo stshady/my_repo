@@ -11,3 +11,4 @@ We are resolving a conflict now!
 
 Making changes again to examine the branch dev
 
+not change
