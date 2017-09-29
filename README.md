@@ -6,4 +6,8 @@ Now adding new line here.
 
 We are resolving a conflict now!
 
+
 ...and again
+
+Making changes again to examine the branch dev
+
