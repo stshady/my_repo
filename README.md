@@ -5,3 +5,5 @@ Adding different line here!
 Now adding new line here.
 
 We are resolving a conflict now!
+
+...and again
